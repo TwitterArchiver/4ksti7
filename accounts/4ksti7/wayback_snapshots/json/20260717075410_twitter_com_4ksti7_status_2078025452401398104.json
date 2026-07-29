@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2077931609433784414",
+    "created_at": "2026-07-17T07:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T08:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078025452401398104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039986041218592768",
+          "start": 0,
+          "username": "7xEcuUp3Sf61887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078025452401398104",
+    "in_reply_to_user_id": "2039986041218592768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078012128062300442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7xEcuUp3Sf61887 选择tm的大电视😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2077931609433784414",
+        "created_at": "2026-07-17T07:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078025452401398104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039986041218592768",
+              "start": 0,
+              "username": "7xEcuUp3Sf61887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078025452401398104",
+        "in_reply_to_user_id": "2039986041218592768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078012128062300442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xEcuUp3Sf61887 选择tm的大电视😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039986041218592768",
+        "conversation_id": "2077931609433784414",
+        "created_at": "2026-07-17T07:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078012128062300442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078012128062300442",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077931609433784414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 choose life"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 227,
+          "like_count": 895,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T08:39:21.000Z",
+        "description": "廢話很多。可以叫我hibiki｜江浙滬正體字消腫逼一枚｜DM○",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 0,
+                "url": "https://t.co/5WmYE4Ga5J"
+              }
+            ]
+          }
+        },
+        "id": "2039986041218592768",
+        "location": "一個人 一條街 一場雨 心碎一整夜",
+        "name": "響き渡る🥃",
+        "pinned_tweet_id": "2070813276167094635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039992924474392576/YSYh1AIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 96,
+          "like_count": 6150,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1429
+        },
+        "url": "https://t.co/5WmYE4Ga5J",
+        "username": "7xEcuUp3Sf61887",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2075576679842672934",
+    "created_at": "2026-07-10T18:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T19:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075645197346902072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2014265546498580480",
+          "start": 0,
+          "username": "kurosaki1337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075645197346902072",
+    "in_reply_to_user_id": "2014265546498580480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075606091472511140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurosaki1337 我本来在赌他们不认识电子烟…低估了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2075576679842672934",
+        "created_at": "2026-07-10T18:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T19:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075645197346902072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2014265546498580480",
+              "start": 0,
+              "username": "kurosaki1337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075645197346902072",
+        "in_reply_to_user_id": "2014265546498580480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075606091472511140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurosaki1337 我本来在赌他们不认识电子烟…低估了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014265546498580480",
+        "conversation_id": "2075576679842672934",
+        "created_at": "2026-07-10T15:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075606091472511140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075606091472511140",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075576679842672934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 你爸妈还知道电子烟 我估计我放桌子上我爸妈也看不出来是啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜朋克\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 61,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T09:15:14.000Z",
+        "description": "…",
+        "id": "2014265546498580480",
+        "location": "de_mirage",
+        "name": "kurosaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067541122130571264/24BUgEWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 31,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "kurosaki1337",
+        "verified": false
+      }
+    ]
+  }
+}

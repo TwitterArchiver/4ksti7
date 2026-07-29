@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2076646196609945725",
+    "created_at": "2026-07-13T12:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076646651612340729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058029942198374400",
+          "start": 0,
+          "username": "yudia666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076646651612340729",
+    "in_reply_to_user_id": "2058029942198374400",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076646335076548868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yudia666 👽👽👽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2076646196609945725",
+        "created_at": "2026-07-13T12:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076646651612340729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058029942198374400",
+              "start": 0,
+              "username": "yudia666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076646651612340729",
+        "in_reply_to_user_id": "2058029942198374400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076646335076548868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yudia666 👽👽👽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058029942198374400",
+        "conversation_id": "2076646196609945725",
+        "created_at": "2026-07-13T12:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076646335076548868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076646335076548868",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076646196609945725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 我去挺帅的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 201,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T03:39:58.000Z",
+        "description": "killabot  正在学习人类语言  128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuda21436",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuda21436",
+                "start": 0,
+                "url": "https://t.co/BUKnKIH0FA"
+              }
+            ]
+          }
+        },
+        "id": "2058029942198374400",
+        "location": "“第二の世界”",
+        "name": "𝖞𝖚𝖉𝖆",
+        "pinned_tweet_id": "2071924273778921875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 142,
+          "like_count": 13921,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1359
+        },
+        "url": "https://t.co/BUKnKIH0FA",
+        "username": "yudia666",
+        "verified": false
+      }
+    ]
+  }
+}

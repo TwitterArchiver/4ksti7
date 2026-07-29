@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2080844190607667361",
+    "created_at": "2026-07-25T14:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081026964362780869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754843908524376064",
+          "start": 0,
+          "username": "huajiliefushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081026964362780869",
+    "in_reply_to_user_id": "1754843908524376064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080868579323552160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajiliefushi 一小时吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2080844190607667361",
+        "created_at": "2026-07-25T14:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081026964362780869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754843908524376064",
+              "start": 0,
+              "username": "huajiliefushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081026964362780869",
+        "in_reply_to_user_id": "1754843908524376064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080868579323552160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajiliefushi 一小时吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754843908524376064",
+        "conversation_id": "2080844190607667361",
+        "created_at": "2026-07-25T04:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080868579323552160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080868579323552160",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080844190607667361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 这把从头到尾多长时间？🤔我今天去听😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 247,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T12:26:17.000Z",
+        "description": "颓废准大一 网络蛆虫 摇滚迷   酗酒重度依赖 没事喜欢踢踢足球 友跨 漫摄fw  欢迎互fo互发乐子唠嗑",
+        "id": "1754843908524376064",
+        "location": "沃尔库塔—5",
+        "name": "diaonansfz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460493376475136/mLc0BZcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 136,
+          "like_count": 966,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1200
+        },
+        "url": "",
+        "username": "huajiliefushi",
+        "verified": false
+      }
+    ]
+  }
+}

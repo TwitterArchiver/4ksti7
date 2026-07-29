@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080711182693089280",
+        "3_2080711182693044224",
+        "3_2080711182684712960",
+        "3_2080711182688940032"
+      ]
+    },
+    "author_id": "2075312744417632256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080711208672608324",
+    "created_at": "2026-07-24T17:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080711208672608324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RWiIGfMY6m",
+          "end": 110,
+          "expanded_url": "https://x.com/4ksti7/status/2080711208672608324/photo/1",
+          "media_key": "3_2080711182693089280",
+          "start": 87,
+          "url": "https://t.co/RWiIGfMY6m"
+        },
+        {
+          "display_url": "pic.x.com/RWiIGfMY6m",
+          "end": 110,
+          "expanded_url": "https://x.com/4ksti7/status/2080711208672608324/photo/1",
+          "media_key": "3_2080711182693044224",
+          "start": 87,
+          "url": "https://t.co/RWiIGfMY6m"
+        },
+        {
+          "display_url": "pic.x.com/RWiIGfMY6m",
+          "end": 110,
+          "expanded_url": "https://x.com/4ksti7/status/2080711208672608324/photo/1",
+          "media_key": "3_2080711182684712960",
+          "start": 87,
+          "url": "https://t.co/RWiIGfMY6m"
+        },
+        {
+          "display_url": "pic.x.com/RWiIGfMY6m",
+          "end": 110,
+          "expanded_url": "https://x.com/4ksti7/status/2080711208672608324/photo/1",
+          "media_key": "3_2080711182688940032",
+          "start": 87,
+          "url": "https://t.co/RWiIGfMY6m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080711208672608324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的好开心，我们做到了，我们每次一起玩都在看很棒的演出，小薇薇高考结束我们一起去上海看了betcover，我高考结束我们去长春看了脏手指…我青春期的英雄是脏手指和小薇…… https://t.co/RWiIGfMY6m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080711182693089280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAry-yawAAo04Q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080711182693044224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAry-yaEAAiJvW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080711182684712960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAry-wa8AAdVIt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2080711182688940032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAry-xbcAAfFQe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080711182693089280",
+            "3_2080711182693044224",
+            "3_2080711182684712960",
+            "3_2080711182688940032"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080711208672608324",
+        "created_at": "2026-07-24T17:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080711208672608324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWiIGfMY6m",
+              "end": 110,
+              "expanded_url": "https://x.com/4ksti7/status/2080711208672608324/photo/1",
+              "media_key": "3_2080711182693089280",
+              "start": 87,
+              "url": "https://t.co/RWiIGfMY6m"
+            },
+            {
+              "display_url": "pic.x.com/RWiIGfMY6m",
+              "end": 110,
+              "expanded_url": "https://x.com/4ksti7/status/2080711208672608324/photo/1",
+              "media_key": "3_2080711182693044224",
+              "start": 87,
+              "url": "https://t.co/RWiIGfMY6m"
+            },
+            {
+              "display_url": "pic.x.com/RWiIGfMY6m",
+              "end": 110,
+              "expanded_url": "https://x.com/4ksti7/status/2080711208672608324/photo/1",
+              "media_key": "3_2080711182684712960",
+              "start": 87,
+              "url": "https://t.co/RWiIGfMY6m"
+            },
+            {
+              "display_url": "pic.x.com/RWiIGfMY6m",
+              "end": 110,
+              "expanded_url": "https://x.com/4ksti7/status/2080711208672608324/photo/1",
+              "media_key": "3_2080711182688940032",
+              "start": 87,
+              "url": "https://t.co/RWiIGfMY6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080711208672608324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好开心，我们做到了，我们每次一起玩都在看很棒的演出，小薇薇高考结束我们一起去上海看了betcover，我高考结束我们去长春看了脏手指…我青春期的英雄是脏手指和小薇…… https://t.co/RWiIGfMY6m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 240,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      }
+    ]
+  }
+}

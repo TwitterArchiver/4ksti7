@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2075475342115127323",
+    "created_at": "2026-07-10T12:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075564216090849520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040070879888220160",
+          "start": 0,
+          "username": "Yumi320521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075564216090849520",
+    "in_reply_to_user_id": "2040070879888220160",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075479684264099849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumi320521 🥺🥺🥺🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2075475342115127323",
+        "created_at": "2026-07-10T12:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075564216090849520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075564216090849520",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075479684264099849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 🥺🥺🥺🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2075475342115127323",
+        "created_at": "2026-07-10T07:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075479684264099849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075479684264099849",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075475342115127323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 msk太坏了 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜朋克\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 20,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 153,
+          "like_count": 5468,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1341
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

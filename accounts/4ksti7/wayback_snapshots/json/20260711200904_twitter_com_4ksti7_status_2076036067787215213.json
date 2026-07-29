@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2075939255269105968",
+    "created_at": "2026-07-11T20:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T21:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076036067787215213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1990864785685032960",
+          "start": 0,
+          "username": "Wygn4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076036067787215213",
+    "in_reply_to_user_id": "1990864785685032960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075939255269105968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wygn4m 漂流少年🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075939245496406016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM83vrcbEAAlam8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2075939255269105968",
+        "created_at": "2026-07-11T20:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076036067787215213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1990864785685032960",
+              "start": 0,
+              "username": "Wygn4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076036067787215213",
+        "in_reply_to_user_id": "1990864785685032960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075939255269105968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wygn4m 漂流少年🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075939245496406016"
+          ]
+        },
+        "author_id": "1990864785685032960",
+        "conversation_id": "2075939255269105968",
+        "created_at": "2026-07-11T13:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075939255269105968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJ02ViWigQ",
+              "end": 26,
+              "expanded_url": "https://x.com/Wygn4m/status/2075939255269105968/photo/1",
+              "media_key": "3_2075939245496406016",
+              "start": 3,
+              "url": "https://t.co/MJ02ViWigQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075939255269105968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耶！ https://t.co/MJ02ViWigQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 165,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T19:29:45.000Z",
+        "description": "我是owai ｜这人是个自闭症｜ADHD并患焦虑抑郁治疗中｜发碎碎念 我的画 自拍照｜日本語を勉強しています",
+        "id": "1990864785685032960",
+        "name": "おわい⛑️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066967970408968192/VSOEXV9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 139,
+          "like_count": 681,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "Wygn4m",
+        "verified": false
+      }
+    ]
+  }
+}

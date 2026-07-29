@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2075646619165577297",
+    "created_at": "2026-07-10T19:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T20:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075662406618161316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510099512034922497",
+          "start": 0,
+          "username": "CCskadoodle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075662406618161316",
+    "in_reply_to_user_id": "1510099512034922497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075657897313546637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCskadoodle 啊啊，就是给我评论这种玩（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2075646619165577297",
+        "created_at": "2026-07-10T19:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T20:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075662406618161316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510099512034922497",
+              "start": 0,
+              "username": "CCskadoodle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075662406618161316",
+        "in_reply_to_user_id": "1510099512034922497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075657897313546637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCskadoodle 啊啊，就是给我评论这种玩（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510099512034922497",
+        "conversation_id": "2075646619165577297",
+        "created_at": "2026-07-10T19:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T20:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075657897313546637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075657897313546637",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075646619165577297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 😢😢心疼一下，礼貌问问玩什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜朋克\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 85,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T03:39:26.000Z",
+        "description": "Type Moon大好き！\n最喜欢👁️👁️别人，还有型月一切相关❤️\nGameplay best love 基本上什么类型都玩，galgame也很喜欢，还有科幻小说…\nFGO or anything😊\n❤️❤️Love from Kohaku❤️❤️💊\nBTW May the force be with u！",
+        "id": "1510099512034922497",
+        "location": "迦蓝之堂",
+        "name": "C.C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075596255309496320/nC-CoIsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 204,
+          "like_count": 1767,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 478
+        },
+        "url": "",
+        "username": "CCskadoodle",
+        "verified": true
+      }
+    ]
+  }
+}

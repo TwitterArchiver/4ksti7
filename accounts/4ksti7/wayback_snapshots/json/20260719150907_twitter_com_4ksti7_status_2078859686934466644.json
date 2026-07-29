@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078859658153132033",
+        "3_2078859658119593984"
+      ]
+    },
+    "author_id": "2075312744417632256",
+    "conversation_id": "2078859686934466644",
+    "created_at": "2026-07-19T15:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078859686934466644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wtAuq48e0z",
+          "end": 76,
+          "expanded_url": "https://x.com/4ksti7/status/2078859686934466644/photo/1",
+          "media_key": "3_2078859658153132033",
+          "start": 53,
+          "url": "https://t.co/wtAuq48e0z"
+        },
+        {
+          "display_url": "pic.x.com/wtAuq48e0z",
+          "end": 76,
+          "expanded_url": "https://x.com/4ksti7/status/2078859686934466644/photo/1",
+          "media_key": "3_2078859658119593984",
+          "start": 53,
+          "url": "https://t.co/wtAuq48e0z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078859686934466644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "受宠若惊了…真的很谢谢你们😿😿😿😿，如果之后有什么问题也可以找我！🥺🥺🥺🥺我可以再西安多活一天了…感谢… https://t.co/wtAuq48e0z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078859658153132033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmX2EYbgAEhNVB.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078859658119593984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmX2EQbwAA0EJB.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078859658153132033",
+            "3_2078859658119593984"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2078859686934466644",
+        "created_at": "2026-07-19T15:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078859686934466644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtAuq48e0z",
+              "end": 76,
+              "expanded_url": "https://x.com/4ksti7/status/2078859686934466644/photo/1",
+              "media_key": "3_2078859658153132033",
+              "start": 53,
+              "url": "https://t.co/wtAuq48e0z"
+            },
+            {
+              "display_url": "pic.x.com/wtAuq48e0z",
+              "end": 76,
+              "expanded_url": "https://x.com/4ksti7/status/2078859686934466644/photo/1",
+              "media_key": "3_2078859658119593984",
+              "start": 53,
+              "url": "https://t.co/wtAuq48e0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078859686934466644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "受宠若惊了…真的很谢谢你们😿😿😿😿，如果之后有什么问题也可以找我！🥺🥺🥺🥺我可以再西安多活一天了…感谢… https://t.co/wtAuq48e0z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 238,
+          "like_count": 1001,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      }
+    ]
+  }
+}

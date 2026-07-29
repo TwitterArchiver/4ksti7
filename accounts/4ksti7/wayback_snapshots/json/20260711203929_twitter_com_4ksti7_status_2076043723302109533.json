@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2076037669805854795",
+    "created_at": "2026-07-11T20:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T21:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076043723302109533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1580633518471671808",
+          "start": 0,
+          "username": "kujoli1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076043723302109533",
+    "in_reply_to_user_id": "1580633518471671808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076043102293524803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujoli1 还好坐飞机了，我有个同学真这样干过，感觉特别痛苦啊、、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2076037669805854795",
+        "created_at": "2026-07-11T20:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076043723302109533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1580633518471671808",
+              "start": 0,
+              "username": "kujoli1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076043723302109533",
+        "in_reply_to_user_id": "1580633518471671808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076043102293524803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujoli1 还好坐飞机了，我有个同学真这样干过，感觉特别痛苦啊、、、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580633518471671808",
+        "conversation_id": "2076037669805854795",
+        "created_at": "2026-07-11T20:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076043102293524803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076043102293524803",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076037669805854795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 我之前去新疆差点考虑坐60小时硬座过去，最后还是坐了飞机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 169,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T18:56:24.000Z",
+        "description": "興味ないね",
+        "id": "1580633518471671808",
+        "name": "海腹川贝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741680261895684096/JM6zaJyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 70,
+          "like_count": 10516,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "kujoli1",
+        "verified": false
+      }
+    ]
+  }
+}

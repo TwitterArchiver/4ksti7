@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2077852273263497396",
+    "created_at": "2026-07-17T01:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077923822427373748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061066746203652100",
+          "start": 0,
+          "username": "Feifeirainms0z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077923822427373748",
+    "in_reply_to_user_id": "2061066746203652100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077916207051948528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Feifeirainms0z 教资奶油般化开…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2077852273263497396",
+        "created_at": "2026-07-17T01:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077923822427373748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061066746203652100",
+              "start": 0,
+              "username": "Feifeirainms0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077923822427373748",
+        "in_reply_to_user_id": "2061066746203652100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077916207051948528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Feifeirainms0z 教资奶油般化开…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2077852273263497396",
+        "created_at": "2026-07-17T00:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077916207051948528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077916207051948528",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077852273263497396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 可不可以磕完药给学生上课"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 218,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 141,
+          "like_count": 878,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "Feifeirainms0z",
+        "verified": false
+      }
+    ]
+  }
+}

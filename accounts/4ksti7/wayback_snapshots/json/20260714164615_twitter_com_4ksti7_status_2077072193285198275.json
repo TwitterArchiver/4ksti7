@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077072153942638592",
+        "3_2077072153900699648"
+      ]
+    },
+    "author_id": "2075312744417632256",
+    "conversation_id": "2077072193285198275",
+    "created_at": "2026-07-14T16:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077072193285198275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pVccQCzeZO",
+          "end": 35,
+          "expanded_url": "https://x.com/4ksti7/status/2077072193285198275/photo/1",
+          "media_key": "3_2077072153942638592",
+          "start": 12,
+          "url": "https://t.co/pVccQCzeZO"
+        },
+        {
+          "display_url": "pic.x.com/pVccQCzeZO",
+          "end": 35,
+          "expanded_url": "https://x.com/4ksti7/status/2077072193285198275/photo/1",
+          "media_key": "3_2077072153900699648",
+          "start": 12,
+          "url": "https://t.co/pVccQCzeZO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077072193285198275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有15小时到达西安… https://t.co/pVccQCzeZO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077072153942638592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNM-HoSbQAAmsY5.jpg",
+        "width": 1850
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077072153900699648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNM-HoIbUAA5VdZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077072153942638592",
+            "3_2077072153900699648"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2077072193285198275",
+        "created_at": "2026-07-14T16:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077072193285198275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pVccQCzeZO",
+              "end": 35,
+              "expanded_url": "https://x.com/4ksti7/status/2077072193285198275/photo/1",
+              "media_key": "3_2077072153942638592",
+              "start": 12,
+              "url": "https://t.co/pVccQCzeZO"
+            },
+            {
+              "display_url": "pic.x.com/pVccQCzeZO",
+              "end": 35,
+              "expanded_url": "https://x.com/4ksti7/status/2077072193285198275/photo/1",
+              "media_key": "3_2077072153900699648",
+              "start": 12,
+              "url": "https://t.co/pVccQCzeZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077072193285198275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有15小时到达西安… https://t.co/pVccQCzeZO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 205,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      }
+    ]
+  }
+}

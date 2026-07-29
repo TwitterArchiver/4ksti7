@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078491635781169152",
+        "3_2078491635776937984",
+        "3_2078491635701469186"
+      ]
+    },
+    "author_id": "2075312744417632256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078491659051155864",
+    "created_at": "2026-07-18T14:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078491659051155864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BiAam0RnWv",
+          "end": 81,
+          "expanded_url": "https://x.com/4ksti7/status/2078491659051155864/photo/1",
+          "media_key": "3_2078491635781169152",
+          "start": 58,
+          "url": "https://t.co/BiAam0RnWv"
+        },
+        {
+          "display_url": "pic.x.com/BiAam0RnWv",
+          "end": 81,
+          "expanded_url": "https://x.com/4ksti7/status/2078491659051155864/photo/1",
+          "media_key": "3_2078491635776937984",
+          "start": 58,
+          "url": "https://t.co/BiAam0RnWv"
+        },
+        {
+          "display_url": "pic.x.com/BiAam0RnWv",
+          "end": 81,
+          "expanded_url": "https://x.com/4ksti7/status/2078491659051155864/photo/1",
+          "media_key": "3_2078491635701469186",
+          "start": 58,
+          "url": "https://t.co/BiAam0RnWv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078491659051155864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小北京画的也太可爱了，我真的幸福的想哭了…我们还是适合在地上爬，虽然这两天经历了很操蛋的事情但是绝对会好的😿😿😿😿 https://t.co/BiAam0RnWv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2078491635781169152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhJIWNbcAAzpSR.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1632,
+        "media_key": "3_2078491635776937984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhJIWMa4AAWYgW.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1242,
+        "media_key": "3_2078491635701469186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhJIV6bUAIYQ8E.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078491635781169152",
+            "3_2078491635776937984",
+            "3_2078491635701469186"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078491659051155864",
+        "created_at": "2026-07-18T14:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078491659051155864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BiAam0RnWv",
+              "end": 81,
+              "expanded_url": "https://x.com/4ksti7/status/2078491659051155864/photo/1",
+              "media_key": "3_2078491635781169152",
+              "start": 58,
+              "url": "https://t.co/BiAam0RnWv"
+            },
+            {
+              "display_url": "pic.x.com/BiAam0RnWv",
+              "end": 81,
+              "expanded_url": "https://x.com/4ksti7/status/2078491659051155864/photo/1",
+              "media_key": "3_2078491635776937984",
+              "start": 58,
+              "url": "https://t.co/BiAam0RnWv"
+            },
+            {
+              "display_url": "pic.x.com/BiAam0RnWv",
+              "end": 81,
+              "expanded_url": "https://x.com/4ksti7/status/2078491659051155864/photo/1",
+              "media_key": "3_2078491635701469186",
+              "start": 58,
+              "url": "https://t.co/BiAam0RnWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078491659051155864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小北京画的也太可爱了，我真的幸福的想哭了…我们还是适合在地上爬，虽然这两天经历了很操蛋的事情但是绝对会好的😿😿😿😿 https://t.co/BiAam0RnWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 233,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      }
+    ]
+  }
+}

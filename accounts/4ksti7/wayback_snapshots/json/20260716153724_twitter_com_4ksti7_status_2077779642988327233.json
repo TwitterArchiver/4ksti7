@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2077198351515476479",
+    "created_at": "2026-07-16T15:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077779642988327233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1508652058169073671",
+          "start": 0,
+          "username": "pupufrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077779642988327233",
+    "in_reply_to_user_id": "1508652058169073671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077198351515476479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pupufrog 图中一个可爱女孩养了一个凑凑小仓鼠👽👽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2077198346398425089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNOw4_0bYAEzgjZ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2077198351515476479",
+        "created_at": "2026-07-16T15:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077779642988327233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1508652058169073671",
+              "start": 0,
+              "username": "pupufrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077779642988327233",
+        "in_reply_to_user_id": "1508652058169073671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077198351515476479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pupufrog 图中一个可爱女孩养了一个凑凑小仓鼠👽👽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077198346398425089"
+          ]
+        },
+        "author_id": "1508652058169073671",
+        "conversation_id": "2077198351515476479",
+        "created_at": "2026-07-15T01:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T02:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077198351515476479"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "jiraikei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aoJyFs4iuU",
+              "end": 41,
+              "expanded_url": "https://x.com/pupufrog/status/2077198351515476479/photo/1",
+              "media_key": "3_2077198346398425089",
+              "start": 18,
+              "url": "https://t.co/aoJyFs4iuU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077198351515476479",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈  #jiraikei https://t.co/aoJyFs4iuU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 213,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-29T03:47:49.000Z",
+        "description": "一个善良的穷逼🚪52，我很可爱",
+        "id": "1508652058169073671",
+        "name": "圈圈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077045286879563776/-Swv4bF9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 140,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "pupufrog",
+        "verified": false
+      }
+    ]
+  }
+}

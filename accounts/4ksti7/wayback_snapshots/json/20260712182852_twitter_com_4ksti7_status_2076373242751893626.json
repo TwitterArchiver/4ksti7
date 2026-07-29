@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2076355394197393442",
+    "created_at": "2026-07-12T18:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T19:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076373242751893626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971182614745841666",
+          "start": 0,
+          "username": "bjsd394019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076373242751893626",
+    "in_reply_to_user_id": "1971182614745841666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076355672246210607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bjsd394019 能认识你，和被你爱着真的好开心，谢谢你小北京，我已经哭了，想到你时候的心情就和磕药的时候一样，好幸福啊，想永远永远当个摇滚明星，可以在我的小角落给你唱我们都喜欢的那些音药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2076355394197393442",
+        "created_at": "2026-07-12T18:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076373242751893626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971182614745841666",
+              "start": 0,
+              "username": "bjsd394019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076373242751893626",
+        "in_reply_to_user_id": "1971182614745841666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076355672246210607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bjsd394019 能认识你，和被你爱着真的好开心，谢谢你小北京，我已经哭了，想到你时候的心情就和磕药的时候一样，好幸福啊，想永远永远当个摇滚明星，可以在我的小角落给你唱我们都喜欢的那些音药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971182614745841666",
+        "conversation_id": "2076355394197393442",
+        "created_at": "2026-07-12T17:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076355672246210607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076355672246210607",
+        "in_reply_to_user_id": "1971182614745841666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076355394197393442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么每次一想到一凡我就下意识说出各种永远，我永远是凡家军，一凡你永远是我的绿谷出久，你永远是我心中的国摇明星，永远是多远，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 188,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T11:59:19.000Z",
+        "description": "",
+        "id": "1971182614745841666",
+        "name": "Karasushappiness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986033393499521024/QFRzaER__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 58,
+          "like_count": 1806,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "bjsd394019",
+        "verified": false
+      }
+    ]
+  }
+}

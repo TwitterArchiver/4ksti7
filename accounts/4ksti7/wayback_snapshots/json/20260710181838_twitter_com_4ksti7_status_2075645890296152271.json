@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075645871518306304",
+        "3_2075645871518347264"
+      ]
+    },
+    "author_id": "2075312744417632256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075645890296152271",
+    "created_at": "2026-07-10T18:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T19:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075645890296152271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nq0NUgwbvQ",
+          "end": 31,
+          "expanded_url": "https://x.com/4ksti7/status/2075645890296152271/photo/1",
+          "media_key": "3_2075645871518306304",
+          "start": 8,
+          "url": "https://t.co/Nq0NUgwbvQ"
+        },
+        {
+          "display_url": "pic.x.com/Nq0NUgwbvQ",
+          "end": 31,
+          "expanded_url": "https://x.com/4ksti7/status/2075645890296152271/photo/1",
+          "media_key": "3_2075645871518347264",
+          "start": 8,
+          "url": "https://t.co/Nq0NUgwbvQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075645890296152271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小宝宝变大猪鼻 https://t.co/Nq0NUgwbvQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075645871518306304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4s7ENa0AA-H8p.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1276,
+        "media_key": "3_2075645871518347264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4s7ENbcAAv8fd.jpg",
+        "width": 1702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075645871518306304",
+            "3_2075645871518347264"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075645890296152271",
+        "created_at": "2026-07-10T18:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T19:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075645890296152271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nq0NUgwbvQ",
+              "end": 31,
+              "expanded_url": "https://x.com/4ksti7/status/2075645890296152271/photo/1",
+              "media_key": "3_2075645871518306304",
+              "start": 8,
+              "url": "https://t.co/Nq0NUgwbvQ"
+            },
+            {
+              "display_url": "pic.x.com/Nq0NUgwbvQ",
+              "end": 31,
+              "expanded_url": "https://x.com/4ksti7/status/2075645890296152271/photo/1",
+              "media_key": "3_2075645871518347264",
+              "start": 8,
+              "url": "https://t.co/Nq0NUgwbvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075645890296152271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小宝宝变大猪鼻 https://t.co/Nq0NUgwbvQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜朋克\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 71,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      }
+    ]
+  }
+}

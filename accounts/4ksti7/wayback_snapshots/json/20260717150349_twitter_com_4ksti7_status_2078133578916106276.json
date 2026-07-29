@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078133512067239936",
+        "3_2078133512054734848",
+        "3_2078133512050446336",
+        "3_2078133512050540544"
+      ]
+    },
+    "author_id": "2075312744417632256",
+    "conversation_id": "2078133578916106276",
+    "created_at": "2026-07-17T15:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078133578916106276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VtFQtD340r",
+          "end": 85,
+          "expanded_url": "https://x.com/4ksti7/status/2078133578916106276/photo/1",
+          "media_key": "3_2078133512067239936",
+          "start": 62,
+          "url": "https://t.co/VtFQtD340r"
+        },
+        {
+          "display_url": "pic.x.com/VtFQtD340r",
+          "end": 85,
+          "expanded_url": "https://x.com/4ksti7/status/2078133578916106276/photo/1",
+          "media_key": "3_2078133512054734848",
+          "start": 62,
+          "url": "https://t.co/VtFQtD340r"
+        },
+        {
+          "display_url": "pic.x.com/VtFQtD340r",
+          "end": 85,
+          "expanded_url": "https://x.com/4ksti7/status/2078133578916106276/photo/1",
+          "media_key": "3_2078133512050446336",
+          "start": 62,
+          "url": "https://t.co/VtFQtD340r"
+        },
+        {
+          "display_url": "pic.x.com/VtFQtD340r",
+          "end": 85,
+          "expanded_url": "https://x.com/4ksti7/status/2078133578916106276/photo/1",
+          "media_key": "3_2078133512050540544",
+          "start": 62,
+          "url": "https://t.co/VtFQtD340r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078133578916106276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "柳博航，超级傲娇，说中南海闹麻了，还给我买了包中南海，这个金属佬是个傲娇，还请我喝了两杯酒，好舒服啊！然后还点了我喜欢的歌 https://t.co/VtFQtD340r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078133512067239936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcDazaaUAAiBe-.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078133512054734848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcDazXbgAA-eYv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078133512050446336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcDazWaEAAsP1S.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078133512050540544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcDazWbgAAZ_ag.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078133512067239936",
+            "3_2078133512054734848",
+            "3_2078133512050446336",
+            "3_2078133512050540544"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2078133578916106276",
+        "created_at": "2026-07-17T15:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078133578916106276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VtFQtD340r",
+              "end": 85,
+              "expanded_url": "https://x.com/4ksti7/status/2078133578916106276/photo/1",
+              "media_key": "3_2078133512067239936",
+              "start": 62,
+              "url": "https://t.co/VtFQtD340r"
+            },
+            {
+              "display_url": "pic.x.com/VtFQtD340r",
+              "end": 85,
+              "expanded_url": "https://x.com/4ksti7/status/2078133578916106276/photo/1",
+              "media_key": "3_2078133512054734848",
+              "start": 62,
+              "url": "https://t.co/VtFQtD340r"
+            },
+            {
+              "display_url": "pic.x.com/VtFQtD340r",
+              "end": 85,
+              "expanded_url": "https://x.com/4ksti7/status/2078133578916106276/photo/1",
+              "media_key": "3_2078133512050446336",
+              "start": 62,
+              "url": "https://t.co/VtFQtD340r"
+            },
+            {
+              "display_url": "pic.x.com/VtFQtD340r",
+              "end": 85,
+              "expanded_url": "https://x.com/4ksti7/status/2078133578916106276/photo/1",
+              "media_key": "3_2078133512050540544",
+              "start": 62,
+              "url": "https://t.co/VtFQtD340r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078133578916106276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "柳博航，超级傲娇，说中南海闹麻了，还给我买了包中南海，这个金属佬是个傲娇，还请我喝了两杯酒，好舒服啊！然后还点了我喜欢的歌 https://t.co/VtFQtD340r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 230,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      }
+    ]
+  }
+}

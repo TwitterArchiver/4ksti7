@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2077773174608117851",
+    "created_at": "2026-07-16T15:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077779206755566015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2071665330586595328",
+          "start": 0,
+          "username": "Shifuhudie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077779206755566015",
+    "in_reply_to_user_id": "2071665330586595328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077776742371279168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shifuhudie 你别怀孕了我害怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2077773174608117851",
+        "created_at": "2026-07-16T15:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077779206755566015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2071665330586595328",
+              "start": 0,
+              "username": "Shifuhudie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077779206755566015",
+        "in_reply_to_user_id": "2071665330586595328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077776742371279168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shifuhudie 你别怀孕了我害怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071665330586595328",
+        "conversation_id": "2077773174608117851",
+        "created_at": "2026-07-16T15:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077776742371279168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077776742371279168",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077773174608117851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 不可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 213,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-29T18:43:26.000Z",
+        "description": "",
+        "id": "2071665330586595328",
+        "name": "雾化血",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074259154307629056/4N6tiYQP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 30,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "Shifuhudie",
+        "verified": false
+      }
+    ]
+  }
+}

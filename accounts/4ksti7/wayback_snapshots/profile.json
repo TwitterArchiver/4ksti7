@@ -1,0 +1,20 @@
+{
+  "name": "红发少年口口事件2.0",
+  "username": "@4ksti7",
+  "bio": "前世@7ksti4   又受限了我发不了帖子😭 我是一凡｜od｜自伤｜情绪摇滚｜敲击 查成分互fo｜欢迎和我玩！ 我转世了互关我想你们了…巡回中🥺",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 9,
+        "start": 2,
+        "username": "7ksti4"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg"
+}
