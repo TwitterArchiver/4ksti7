@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084114249908109312"
+      ]
+    },
+    "author_id": "2075312744417632256",
+    "conversation_id": "2084006632540012839",
+    "created_at": "2026-08-03T03:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084114266752434298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1971143111863889920",
+          "start": 0,
+          "username": "1116s94"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lvSwZmcjFb",
+          "end": 159,
+          "expanded_url": "https://x.com/4ksti7/status/2084114266752434298/photo/1",
+          "media_key": "3_2084114249908109312",
+          "start": 136,
+          "url": "https://t.co/lvSwZmcjFb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084114266752434298",
+    "in_reply_to_user_id": "1971143111863889920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084093746002690346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1116s94 你自己发帖这样说，那我更希望你能变成一个有温度的人，不是所有od妹都是乱骂人的，任何人都有磕药的权利，我不能否认骂过你的od妹是个烂人，但是总有正常人在的。我不是在洗白，只是对于一个人的行为来说，在我失意的时候也有od圈的妹妹给我发很长的鼓励文章，，唉 https://t.co/lvSwZmcjFb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084114249908109312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxC3kEaQAA1rd9.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084114249908109312"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2084006632540012839",
+        "created_at": "2026-08-03T03:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084114266752434298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1971143111863889920",
+              "start": 0,
+              "username": "1116s94"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvSwZmcjFb",
+              "end": 159,
+              "expanded_url": "https://x.com/4ksti7/status/2084114266752434298/photo/1",
+              "media_key": "3_2084114249908109312",
+              "start": 136,
+              "url": "https://t.co/lvSwZmcjFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084114266752434298",
+        "in_reply_to_user_id": "1971143111863889920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084093746002690346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1116s94 你自己发帖这样说，那我更希望你能变成一个有温度的人，不是所有od妹都是乱骂人的，任何人都有磕药的权利，我不能否认骂过你的od妹是个烂人，但是总有正常人在的。我不是在洗白，只是对于一个人的行为来说，在我失意的时候也有od圈的妹妹给我发很长的鼓励文章，，唉 https://t.co/lvSwZmcjFb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971143111863889920",
+        "conversation_id": "2084006632540012839",
+        "created_at": "2026-08-03T01:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084093746002690346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084093746002690346",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084006632540012839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 又开始自我洗脑陶醉了，你以为od妹是啥好人，价值观都扭曲了，骂人最狠😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 282,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T09:22:10.000Z",
+        "description": "",
+        "id": "1971143111863889920",
+        "name": "宇宙中最忧郁之人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082907273417101313/ikQWoGAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 61,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 562
+        },
+        "url": "",
+        "username": "1116s94",
+        "verified": false
+      }
+    ]
+  }
+}

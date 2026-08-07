@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2084115431376425087",
+    "created_at": "2026-08-04T16:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084679723364565378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4368377476",
+          "start": 0,
+          "username": "Kamo67398586"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084679723364565378",
+    "in_reply_to_user_id": "4368377476",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084673072532238768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kamo67398586 太好了👽👽👽👽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2084115431376425087",
+        "created_at": "2026-08-04T16:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084679723364565378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4368377476",
+              "start": 0,
+              "username": "Kamo67398586"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084679723364565378",
+        "in_reply_to_user_id": "4368377476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084673072532238768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kamo67398586 太好了👽👽👽👽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4368377476",
+        "conversation_id": "2084115431376425087",
+        "created_at": "2026-08-04T16:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084673072532238768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084673072532238768",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084115431376425087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 她号没了，开香槟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 296,
+          "like_count": 1680,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-04T04:15:03.000Z",
+        "description": "我是時雨~前世被当成入机的女子\n喜欢看动画玩游戏听音乐画画阅读 欢迎互fo\n纯绿🚪 伤口定制（特效妆容制作不违反规则）",
+        "id": "4368377476",
+        "name": "Kamo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063131459255508992/pzhLfdHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 32,
+          "like_count": 405,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "Kamo67398586",
+        "verified": false
+      }
+    ]
+  }
+}

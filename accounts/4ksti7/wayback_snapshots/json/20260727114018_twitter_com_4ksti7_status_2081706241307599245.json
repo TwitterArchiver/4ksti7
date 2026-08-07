@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2081257979186467166",
+    "created_at": "2026-07-27T11:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081706241307599245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1277135438302441472",
+          "start": 0,
+          "username": "THEJOE99225999"
+        },
+        {
+          "end": 27,
+          "id": "1971182614745841666",
+          "start": 16,
+          "username": "bjsd394019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081706241307599245",
+    "in_reply_to_user_id": "1277135438302441472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081696131973808258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@THEJOE99225999 @bjsd394019 盐酸金刚烷胺，所以是晚安hhhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2081257979186467166",
+        "created_at": "2026-07-27T11:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081706241307599245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1277135438302441472",
+              "start": 0,
+              "username": "THEJOE99225999"
+            },
+            {
+              "end": 27,
+              "id": "1971182614745841666",
+              "start": 16,
+              "username": "bjsd394019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081706241307599245",
+        "in_reply_to_user_id": "1277135438302441472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081696131973808258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@THEJOE99225999 @bjsd394019 盐酸金刚烷胺，所以是晚安hhhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277135438302441472",
+        "conversation_id": "2081257979186467166",
+        "created_at": "2026-07-27T11:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081696131973808258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971182614745841666",
+              "start": 0,
+              "username": "bjsd394019"
+            },
+            {
+              "end": 19,
+              "id": "2075312744417632256",
+              "start": 12,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081696131973808258",
+        "in_reply_to_user_id": "1971182614745841666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081694528910836149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bjsd394019 @4ksti7 所以晚安是什么诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 261,
+          "like_count": 1186,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-28T07:03:25.000Z",
+        "description": "🏩🚗偶尔🛁/暂无担当",
+        "id": "1277135438302441472",
+        "location": "歌舞伎",
+        "name": "あちや🌸🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079046072828317696/Sf0mgS4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 302,
+          "like_count": 1017,
+          "listed_count": 4,
+          "media_count": 11,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "THEJOE99225999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T11:59:19.000Z",
+        "description": "",
+        "id": "1971182614745841666",
+        "name": "Karasushappiness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986033393499521024/QFRzaER__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 57,
+          "like_count": 1853,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "bjsd394019",
+        "verified": false
+      }
+    ]
+  }
+}

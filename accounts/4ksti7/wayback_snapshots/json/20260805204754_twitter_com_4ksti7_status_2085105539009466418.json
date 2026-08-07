@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2084835402146594928",
+    "created_at": "2026-08-05T20:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T21:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085105539009466418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489872233984311301",
+          "start": 0,
+          "username": "Aoncshagriuneo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085105539009466418",
+    "in_reply_to_user_id": "1489872233984311301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084835402146594928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aoncshagriuneo 优美吃了对死亡没恐惧了、感觉吃优美不致死但是会对死亡没概念"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2084835385558114304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7SvLtbIAA_VrJ.jpg",
+        "width": 4000
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2084835395834085376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7Svx_aAAA4iho.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2084835402146594928",
+        "created_at": "2026-08-05T20:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085105539009466418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489872233984311301",
+              "start": 0,
+              "username": "Aoncshagriuneo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085105539009466418",
+        "in_reply_to_user_id": "1489872233984311301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084835402146594928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aoncshagriuneo 优美吃了对死亡没恐惧了、感觉吃优美不致死但是会对死亡没概念"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084835385558114304",
+            "3_2084835395834085376"
+          ]
+        },
+        "author_id": "1489872233984311301",
+        "conversation_id": "2084835402146594928",
+        "created_at": "2026-08-05T02:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084835402146594928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3V4PkuvmXh",
+              "end": 76,
+              "expanded_url": "https://x.com/Aoncshagriuneo/status/2084835402146594928/photo/1",
+              "media_key": "3_2084835385558114304",
+              "start": 53,
+              "url": "https://t.co/3V4PkuvmXh"
+            },
+            {
+              "display_url": "pic.x.com/3V4PkuvmXh",
+              "end": 76,
+              "expanded_url": "https://x.com/Aoncshagriuneo/status/2084835402146594928/photo/1",
+              "media_key": "3_2084835395834085376",
+              "start": 53,
+              "url": "https://t.co/3V4PkuvmXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084835402146594928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2163,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "69t 自杀实验 拉12次6t吞下去好麻烦好苦。。。 时间11点 因为想呕吐这次就不吃胃药了反正也找不到 https://t.co/3V4PkuvmXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 305,
+          "like_count": 1766,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T08:03:23.000Z",
+        "description": "在我变成你之前。",
+        "id": "1489872233984311301",
+        "location": "纸房子",
+        "name": "安艺涵",
+        "pinned_tweet_id": "2068421973580128344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068416664945975296/58i4o1W2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 4722,
+          "like_count": 219314,
+          "listed_count": 5,
+          "media_count": 136,
+          "tweet_count": 59699
+        },
+        "url": "",
+        "username": "Aoncshagriuneo",
+        "verified": false
+      }
+    ]
+  }
+}

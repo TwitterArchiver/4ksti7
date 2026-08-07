@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084599302345936896",
+        "3_2084599302333362176"
+      ]
+    },
+    "author_id": "2075312744417632256",
+    "conversation_id": "2084599335128584192",
+    "created_at": "2026-08-04T11:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084599335128584192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g7Ksj23GFI",
+          "end": 26,
+          "expanded_url": "https://x.com/4ksti7/status/2084599335128584192/photo/1",
+          "media_key": "3_2084599302345936896",
+          "start": 3,
+          "url": "https://t.co/g7Ksj23GFI"
+        },
+        {
+          "display_url": "pic.x.com/g7Ksj23GFI",
+          "end": 26,
+          "expanded_url": "https://x.com/4ksti7/status/2084599335128584192/photo/1",
+          "media_key": "3_2084599302333362176",
+          "start": 3,
+          "url": "https://t.co/g7Ksj23GFI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084599335128584192",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "us https://t.co/g7Ksj23GFI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084599302345936896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO38BVNbUAAOB2p.jpg",
+        "width": 1536
+      },
+      {
+        "height": 686,
+        "media_key": "3_2084599302333362176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO38BVKbcAAyYiz.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084599302345936896",
+            "3_2084599302333362176"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2084599335128584192",
+        "created_at": "2026-08-04T11:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084599335128584192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7Ksj23GFI",
+              "end": 26,
+              "expanded_url": "https://x.com/4ksti7/status/2084599335128584192/photo/1",
+              "media_key": "3_2084599302345936896",
+              "start": 3,
+              "url": "https://t.co/g7Ksj23GFI"
+            },
+            {
+              "display_url": "pic.x.com/g7Ksj23GFI",
+              "end": 26,
+              "expanded_url": "https://x.com/4ksti7/status/2084599335128584192/photo/1",
+              "media_key": "3_2084599302333362176",
+              "start": 3,
+              "url": "https://t.co/g7Ksj23GFI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084599335128584192",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "us https://t.co/g7Ksj23GFI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 294,
+          "like_count": 1644,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2084006632540012839",
+    "created_at": "2026-08-03T03:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084113681085075853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1971143111863889920",
+          "start": 0,
+          "username": "1116s94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084113681085075853",
+    "in_reply_to_user_id": "1971143111863889920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084093746002690346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1116s94 任何圈子有好人有坏人，我目前接触的od妹没有你说的这样的，就算你遇到的是这样的也不能以偏概全吧…也有好好生活只是面临痛苦不知道怎么解决选择磕药的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2084006632540012839",
+        "created_at": "2026-08-03T03:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084113681085075853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1971143111863889920",
+              "start": 0,
+              "username": "1116s94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084113681085075853",
+        "in_reply_to_user_id": "1971143111863889920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084093746002690346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1116s94 任何圈子有好人有坏人，我目前接触的od妹没有你说的这样的，就算你遇到的是这样的也不能以偏概全吧…也有好好生活只是面临痛苦不知道怎么解决选择磕药的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971143111863889920",
+        "conversation_id": "2084006632540012839",
+        "created_at": "2026-08-03T01:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084093746002690346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084093746002690346",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084006632540012839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 又开始自我洗脑陶醉了，你以为od妹是啥好人，价值观都扭曲了，骂人最狠😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 282,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T09:22:10.000Z",
+        "description": "",
+        "id": "1971143111863889920",
+        "name": "宇宙中最忧郁之人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082907273417101313/ikQWoGAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 61,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 562
+        },
+        "url": "",
+        "username": "1116s94",
+        "verified": false
+      }
+    ]
+  }
+}
