@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2089388887269671080",
+    "created_at": "2026-08-17T19:11:33.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T20:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089429945168941215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1758428820045189120",
+          "start": 0,
+          "username": "ysawa325"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089429945168941215",
+    "in_reply_to_user_id": "1758428820045189120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089396504205381930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysawa325 🥺🥺🥺🥺😿我也想变得可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2089388887269671080",
+        "created_at": "2026-08-17T19:11:33.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T20:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089429945168941215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1758428820045189120",
+              "start": 0,
+              "username": "ysawa325"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089429945168941215",
+        "in_reply_to_user_id": "1758428820045189120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089396504205381930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysawa325 🥺🥺🥺🥺😿我也想变得可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758428820045189120",
+        "conversation_id": "2089388887269671080",
+        "created_at": "2026-08-17T16:58:40.000Z",
+        "display_text_range": [
+          8,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089396504205381930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089396504205381930",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089388887269671080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 不要这么说自己。抱抱你，老大特别的可爱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089429945168941215",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 369,
+          "like_count": 2251,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T09:51:25.000Z",
+        "description": "想和正常人Fo。\n不开心可以随时骚扰我，做大家的情绪垃圾桶。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arcaea.lowiro.com/zh",
+                "end": 23,
+                "expanded_url": "https://arcaea.lowiro.com/zh",
+                "start": 0,
+                "url": "https://t.co/T15QFpyRbx"
+              }
+            ]
+          }
+        },
+        "id": "1758428820045189120",
+        "is_identity_verified": false,
+        "location": "距离你325m",
+        "most_recent_tweet_id": "2089428522343502167",
+        "name": "渴望被拯救の魚",
+        "pinned_tweet_id": "2067840611147973042",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758428820045189120/1782060571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080262547744387072/xnszDUW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 520,
+          "like_count": 15989,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 13624
+        },
+        "url": "https://t.co/T15QFpyRbx",
+        "username": "ysawa325",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

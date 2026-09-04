@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2089477728508744039",
+    "created_at": "2026-08-17T22:45:51.000Z",
+    "display_text_range": [
+      15,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T23:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089483877127757986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1277135438302441472",
+          "start": 0,
+          "username": "TakahashiYua9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089483877127757986",
+    "in_reply_to_user_id": "1277135438302441472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089477728508744039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TakahashiYua9 呜呜宝宝题外话请你看一下私信！🥺🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36970,
+        "height": 720,
+        "media_key": "13_2089477541413502976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089477541413502976/img/FzOBdIUquZwy1L8W.jpg",
+        "public_metrics": {
+          "view_count": 40
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089477541413502976/vid/avc1/480x270/Bg7etVzAsoxp-2Jc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089477541413502976/vid/avc1/640x360/Rlin1-xV4NJfmm0k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089477541413502976/vid/avc1/1280x720/s7WTtov74vZwc34z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089477541413502976/pl/7A92oDXQ-TEMUjLn.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2089477728508744039",
+        "created_at": "2026-08-17T22:45:51.000Z",
+        "display_text_range": [
+          15,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T23:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089483877127757986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1277135438302441472",
+              "start": 0,
+              "username": "TakahashiYua9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089483877127757986",
+        "in_reply_to_user_id": "1277135438302441472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089477728508744039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TakahashiYua9 呜呜宝宝题外话请你看一下私信！🥺🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089477541413502976"
+          ]
+        },
+        "author_id": "1277135438302441472",
+        "conversation_id": "2089477728508744039",
+        "created_at": "2026-08-17T22:21:25.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T23:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089477728508744039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsHQZxS1Ff",
+              "end": 47,
+              "expanded_url": "https://x.com/TakahashiYua9/status/2089477728508744039/video/1",
+              "media_key": "13_2089477541413502976",
+              "start": 24,
+              "url": "https://t.co/IsHQZxS1Ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089477728508744039",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2089477541413502976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "emocore地雷女。\n\n（手臂上是特效化妆） https://t.co/IsHQZxS1Ff"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089483877127757986",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 369,
+          "like_count": 2276,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 380
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-28T07:03:25.000Z",
+        "description": "🏩🚗偶尔🛁/暂无担当",
+        "id": "1277135438302441472",
+        "is_identity_verified": false,
+        "location": "歌舞伎",
+        "most_recent_tweet_id": "2089482019344732315",
+        "name": "あちや🌸🍋",
+        "pinned_tweet_id": "2089124002510024823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1277135438302441472/1785782898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084351551519535104/AZPLGMx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 357,
+          "like_count": 2409,
+          "listed_count": 4,
+          "media_count": 41,
+          "tweet_count": 437
+        },
+        "url": "",
+        "username": "TakahashiYua9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

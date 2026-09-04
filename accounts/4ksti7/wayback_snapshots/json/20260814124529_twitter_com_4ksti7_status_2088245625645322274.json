@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088245587040968704",
+        "3_2088245587221286912",
+        "3_2088245587200380928",
+        "3_2088245587158392832"
+      ]
+    },
+    "author_id": "2075312744417632256",
+    "conversation_id": "2088245625645322274",
+    "created_at": "2026-08-14T12:45:29.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088245625645322274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ewODNaarh",
+          "end": 42,
+          "expanded_url": "https://x.com/4ksti7/status/2088245625645322274/photo/1",
+          "media_key": "3_2088245587040968704",
+          "start": 19,
+          "url": "https://t.co/2ewODNaarh"
+        },
+        {
+          "display_url": "pic.x.com/2ewODNaarh",
+          "end": 42,
+          "expanded_url": "https://x.com/4ksti7/status/2088245625645322274/photo/1",
+          "media_key": "3_2088245587221286912",
+          "start": 19,
+          "url": "https://t.co/2ewODNaarh"
+        },
+        {
+          "display_url": "pic.x.com/2ewODNaarh",
+          "end": 42,
+          "expanded_url": "https://x.com/4ksti7/status/2088245625645322274/photo/1",
+          "media_key": "3_2088245587200380928",
+          "start": 19,
+          "url": "https://t.co/2ewODNaarh"
+        },
+        {
+          "display_url": "pic.x.com/2ewODNaarh",
+          "end": 42,
+          "expanded_url": "https://x.com/4ksti7/status/2088245625645322274/photo/1",
+          "media_key": "3_2088245587158392832",
+          "start": 19,
+          "url": "https://t.co/2ewODNaarh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088245625645322274",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088245587040968704"
+      },
+      {
+        "media_key": "3_2088245587221286912"
+      },
+      {
+        "media_key": "3_2088245587200380928"
+      },
+      {
+        "media_key": "3_2088245587158392832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还活着，不敢跳楼，试着上吊但是没成功 https://t.co/2ewODNaarh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088245587040968704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrwTCNaoAAnXka.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088245587221286912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrwTC4aEAAAS_H.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088245587200380928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrwTCzbEAAJBRu.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088245587158392832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrwTCpaYAAq5sT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088245587040968704",
+            "3_2088245587221286912",
+            "3_2088245587200380928",
+            "3_2088245587158392832"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2088245625645322274",
+        "created_at": "2026-08-14T12:45:29.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088245625645322274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ewODNaarh",
+              "end": 42,
+              "expanded_url": "https://x.com/4ksti7/status/2088245625645322274/photo/1",
+              "media_key": "3_2088245587040968704",
+              "start": 19,
+              "url": "https://t.co/2ewODNaarh"
+            },
+            {
+              "display_url": "pic.x.com/2ewODNaarh",
+              "end": 42,
+              "expanded_url": "https://x.com/4ksti7/status/2088245625645322274/photo/1",
+              "media_key": "3_2088245587221286912",
+              "start": 19,
+              "url": "https://t.co/2ewODNaarh"
+            },
+            {
+              "display_url": "pic.x.com/2ewODNaarh",
+              "end": 42,
+              "expanded_url": "https://x.com/4ksti7/status/2088245625645322274/photo/1",
+              "media_key": "3_2088245587200380928",
+              "start": 19,
+              "url": "https://t.co/2ewODNaarh"
+            },
+            {
+              "display_url": "pic.x.com/2ewODNaarh",
+              "end": 42,
+              "expanded_url": "https://x.com/4ksti7/status/2088245625645322274/photo/1",
+              "media_key": "3_2088245587158392832",
+              "start": 19,
+              "url": "https://t.co/2ewODNaarh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088245625645322274",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088245587040968704"
+          },
+          {
+            "media_key": "3_2088245587221286912"
+          },
+          {
+            "media_key": "3_2088245587200380928"
+          },
+          {
+            "media_key": "3_2088245587158392832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还活着，不敢跳楼，试着上吊但是没成功 https://t.co/2ewODNaarh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088245625645322274",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 341,
+          "like_count": 2067,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

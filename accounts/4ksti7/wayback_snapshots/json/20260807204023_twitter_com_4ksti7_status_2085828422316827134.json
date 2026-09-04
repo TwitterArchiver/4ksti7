@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2085696892944703684",
+    "created_at": "2026-08-07T20:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T21:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085828422316827134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044813899816402944",
+          "start": 0,
+          "username": "gzgzgzgzds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085828422316827134",
+    "in_reply_to_user_id": "2044813899816402944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085756884993348035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gzgzgzgzds 有了spark都不用买效果器了（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1467,
+        "media_key": "3_2085756872364331008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIY0xkbEAAuAH_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2085696892944703684",
+        "created_at": "2026-08-07T20:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T21:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085828422316827134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044813899816402944",
+              "start": 0,
+              "username": "gzgzgzgzds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085828422316827134",
+        "in_reply_to_user_id": "2044813899816402944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085756884993348035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzgzgzgzds 有了spark都不用买效果器了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085756872364331008"
+          ]
+        },
+        "author_id": "2044813899816402944",
+        "conversation_id": "2085696892944703684",
+        "created_at": "2026-08-07T15:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085756884993348035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IjkNLfhWM0",
+              "end": 39,
+              "expanded_url": "https://x.com/gzgzgzgzds/status/2085756884993348035/photo/1",
+              "media_key": "3_2085756872364331008",
+              "start": 16,
+              "url": "https://t.co/IjkNLfhWM0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085756884993348035",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085696892944703684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 和你同款呀宝子 https://t.co/IjkNLfhWM0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 321,
+          "like_count": 1869,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 286
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T16:23:25.000Z",
+        "description": "世界上的音乐是听不完的",
+        "id": "2044813899816402944",
+        "name": "p2p",
+        "pinned_tweet_id": "2082504334823305655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080517065236992000/-myqCHEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 319,
+          "like_count": 1714,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 530
+        },
+        "url": "",
+        "username": "gzgzgzgzds",
+        "verified": false
+      }
+    ]
+  }
+}

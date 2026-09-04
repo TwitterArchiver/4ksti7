@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2092261311266856971",
+    "created_at": "2026-08-25T19:19:06.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T20:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092330946913787996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044813899816402944",
+          "start": 0,
+          "username": "gzgzgzgzds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092330946913787996",
+    "in_reply_to_user_id": "2044813899816402944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092261311266856971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gzgzgzgzds 我服了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9889,
+        "height": 576,
+        "media_key": "13_2092261292979769344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092261292979769344/img/-DxvnIsi7X9bivAN.jpg",
+        "public_metrics": {
+          "view_count": 70
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092261292979769344/vid/avc1/320x320/KOm8xwaGh9qpRiye.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092261292979769344/vid/avc1/576x576/bSLEHedCulOU6kQQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092261292979769344/pl/anz1X8DaSjgY1oo4.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2092261311266856971",
+        "created_at": "2026-08-25T19:19:06.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T20:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092330946913787996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044813899816402944",
+              "start": 0,
+              "username": "gzgzgzgzds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092330946913787996",
+        "in_reply_to_user_id": "2044813899816402944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092261311266856971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzgzgzgzds 我服了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092261292979769344"
+          ]
+        },
+        "author_id": "2044813899816402944",
+        "conversation_id": "2092261311266856971",
+        "created_at": "2026-08-25T14:42:23.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092261311266856971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezhCPgKreM",
+              "end": 31,
+              "expanded_url": "https://x.com/gzgzgzgzds/status/2092261311266856971/video/1",
+              "media_key": "13_2092261292979769344",
+              "start": 8,
+              "url": "https://t.co/ezhCPgKreM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092261311266856971",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092261292979769344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你马我受不了了 https://t.co/ezhCPgKreM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092330946913787996",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 372,
+          "like_count": 2485,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-16T16:23:25.000Z",
+        "description": "世界上的音乐是听不完的",
+        "id": "2044813899816402944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092261311266856971",
+        "name": "p2p",
+        "pinned_tweet_id": "2082504334823305655",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044813899816402944/1776739318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087473770852491264/lKHNILDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 322,
+          "like_count": 2178,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 722
+        },
+        "url": "",
+        "username": "gzgzgzgzds",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

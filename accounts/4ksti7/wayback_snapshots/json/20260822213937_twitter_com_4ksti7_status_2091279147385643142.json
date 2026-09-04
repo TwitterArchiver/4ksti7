@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2091276615162704211",
+    "created_at": "2026-08-22T21:39:37.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T22:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091279147385643142"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2091279147385643142",
+    "in_reply_to_user_id": "2075312744417632256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091276615162704211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是副社长🚬🚬，我们都毕业了好心酸高中吉他社要完蛋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2091276594807787520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQW0-6CbUAAdqYG.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2091276615162704211",
+        "created_at": "2026-08-22T21:39:37.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T22:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091279147385643142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091279147385643142",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091276615162704211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是副社长🚬🚬，我们都毕业了好心酸高中吉他社要完蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091276594807787520"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2091276615162704211",
+        "created_at": "2026-08-22T21:29:33.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T22:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091276615162704211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JMF8k6BIhG",
+              "end": 44,
+              "expanded_url": "https://x.com/4ksti7/status/2091276615162704211/photo/1",
+              "media_key": "3_2091276594807787520",
+              "start": 21,
+              "url": "https://t.co/JMF8k6BIhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091276615162704211",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091276594807787520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路人拍的我觉得很好看，吉他社三代社长同堂 https://t.co/JMF8k6BIhG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091279147385643142",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 364,
+          "like_count": 2368,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

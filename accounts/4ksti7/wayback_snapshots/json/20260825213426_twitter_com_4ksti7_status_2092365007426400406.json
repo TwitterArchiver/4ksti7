@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2092008056980697493",
+    "created_at": "2026-08-25T21:34:26.000Z",
+    "display_text_range": [
+      8,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T22:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092365007426400406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2076638407300923393",
+          "start": 0,
+          "username": "ouuyuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092365007426400406",
+    "in_reply_to_user_id": "2076638407300923393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092008056980697493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouuyuk 每次被骂就发小众操作不喜勿喷。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2092008056980697493",
+        "created_at": "2026-08-25T21:34:26.000Z",
+        "display_text_range": [
+          8,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T22:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092365007426400406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2076638407300923393",
+              "start": 0,
+              "username": "ouuyuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092365007426400406",
+        "in_reply_to_user_id": "2076638407300923393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092008056980697493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouuyuk 每次被骂就发小众操作不喜勿喷。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076638407300923393",
+        "conversation_id": "2092008056980697493",
+        "created_at": "2026-08-24T21:56:03.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T22:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092008056980697493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092008056980697493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5386,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来就烦打个快速还要被骂..这就是我们ow的游戏环境"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092365007426400406",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 373,
+          "like_count": 2487,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T12:04:43.000Z",
+        "description": "这里什么也没有",
+        "id": "2076638407300923393",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092008056980697493",
+        "name": "vividness",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076638407300923393/1783944701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076642545002811392/3-ZkLOoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 36,
+          "like_count": 366,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "ouuyuk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

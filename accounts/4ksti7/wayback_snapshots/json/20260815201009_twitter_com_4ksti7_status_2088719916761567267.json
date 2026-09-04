@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088719910809817089"
+      ]
+    },
+    "author_id": "2075312744417632256",
+    "conversation_id": "2088719916761567267",
+    "created_at": "2026-08-15T20:10:09.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T21:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088719916761567267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4bnuF3fNzk",
+          "end": 23,
+          "expanded_url": "https://x.com/4ksti7/status/2088719916761567267/photo/1",
+          "media_key": "3_2088719910809817089",
+          "start": 0,
+          "url": "https://t.co/4bnuF3fNzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088719916761567267",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088719910809817089"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/4bnuF3fNzk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2088719910809817089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyfsT8a0AECyQE.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088719910809817089"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2088719916761567267",
+        "created_at": "2026-08-15T20:10:09.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T21:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088719916761567267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4bnuF3fNzk",
+              "end": 23,
+              "expanded_url": "https://x.com/4ksti7/status/2088719916761567267/photo/1",
+              "media_key": "3_2088719910809817089",
+              "start": 0,
+              "url": "https://t.co/4bnuF3fNzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088719916761567267",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088719910809817089"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4bnuF3fNzk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088719916761567267",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088716941401927680/KNgPCdLZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 359,
+          "like_count": 2148,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

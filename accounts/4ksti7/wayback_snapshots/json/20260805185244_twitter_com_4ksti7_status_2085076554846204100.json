@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2085076240009248966",
+    "created_at": "2026-08-05T18:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T19:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085076554846204100"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085076554846204100",
+    "in_reply_to_user_id": "2075312744417632256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085076240009248966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这只是红色的海娜膏啊。我真哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085076221667446784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-txsIaEAAth33.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2085076240009248966",
+        "created_at": "2026-08-05T18:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085076554846204100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085076554846204100",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085076240009248966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这只是红色的海娜膏啊。我真哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085076221667446784"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2085076240009248966",
+        "created_at": "2026-08-05T18:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085076240009248966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1pDu1uQq4A",
+              "end": 41,
+              "expanded_url": "https://x.com/4ksti7/status/2085076240009248966/photo/1",
+              "media_key": "3_2085076221667446784",
+              "start": 18,
+              "url": "https://t.co/1pDu1uQq4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085076240009248966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是。这特么是海娜啊。不是zc啊！ https://t.co/1pDu1uQq4A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 304,
+          "like_count": 1748,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      }
+    ]
+  }
+}

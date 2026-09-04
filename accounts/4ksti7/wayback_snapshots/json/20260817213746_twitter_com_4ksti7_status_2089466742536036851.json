@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2083001976342859792",
+    "created_at": "2026-08-17T21:37:46.000Z",
+    "display_text_range": [
+      13,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T22:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089466742536036851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1777636769187676160",
+          "start": 0,
+          "username": "Tisav5000sd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089466742536036851",
+    "in_reply_to_user_id": "1777636769187676160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083001976342859792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tisav5000sd 他们不懂乐理，小资想火然后操个逼bale"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2083001976342859792",
+        "created_at": "2026-08-17T21:37:46.000Z",
+        "display_text_range": [
+          13,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T22:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089466742536036851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777636769187676160",
+              "start": 0,
+              "username": "Tisav5000sd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089466742536036851",
+        "in_reply_to_user_id": "1777636769187676160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083001976342859792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tisav5000sd 他们不懂乐理，小资想火然后操个逼bale"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777636769187676160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2083001976342859792",
+        "created_at": "2026-07-31T01:29:06.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083001976342859792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083001976342859792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 895,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "udg说唱歌手真的是我见过的智商最低最自以为是最低能的一个群体，录歌的时候不知道怎么挂节拍器，和弦走向听不出来，自己编了个bassline和声打架了也听不出来，我让他导出整个工程给我也不会弄。帮他改个歌气的我奶子疼，这他妈也配叫音乐人吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089466742536036851",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 369,
+          "like_count": 2265,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 375
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-09T09:57:00.000Z",
+        "description": "啦啦啦外星人啊 快来把我们掳走吧",
+        "id": "1777636769187676160",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2089450185139323335",
+        "name": "TisaV 5680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1777636769187676160/1777708558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920384370797363200/qjap6c_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 154,
+          "like_count": 538,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "Tisav5000sd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

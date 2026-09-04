@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2088956657330212967",
+    "created_at": "2026-08-16T14:38:00.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088998718112735386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1277135438302441472",
+          "start": 0,
+          "username": "TakahashiYua9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088998718112735386",
+    "in_reply_to_user_id": "1277135438302441472",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088980688855064676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TakahashiYua9 😿😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2088956657330212967",
+        "created_at": "2026-08-16T14:38:00.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088998718112735386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1277135438302441472",
+              "start": 0,
+              "username": "TakahashiYua9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088998718112735386",
+        "in_reply_to_user_id": "1277135438302441472",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088980688855064676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TakahashiYua9 😿😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277135438302441472",
+        "conversation_id": "2088956657330212967",
+        "created_at": "2026-08-16T13:26:22.000Z",
+        "display_text_range": [
+          8,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088980688855064676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088980688855064676",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088956657330212967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 不要这样。。。好喜欢你😢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088998718112735386",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 358,
+          "like_count": 2191,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-28T07:03:25.000Z",
+        "description": "🏩🚗偶尔🛁/暂无担当",
+        "id": "1277135438302441472",
+        "is_identity_verified": false,
+        "location": "歌舞伎",
+        "most_recent_tweet_id": "2088993973272723952",
+        "name": "あちや🌸🍋",
+        "pinned_tweet_id": "2079397781417099636",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1277135438302441472/1785782898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084351551519535104/AZPLGMx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 339,
+          "like_count": 2177,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 368
+        },
+        "url": "",
+        "username": "TakahashiYua9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

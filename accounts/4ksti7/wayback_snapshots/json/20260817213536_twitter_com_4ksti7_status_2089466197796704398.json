@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2089435464239665567",
+    "created_at": "2026-08-17T21:35:36.000Z",
+    "display_text_range": [
+      29,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T22:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089466197796704398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010357366466990080",
+          "start": 0,
+          "username": "shennainai666"
+        },
+        {
+          "end": 28,
+          "id": "1807304008866140160",
+          "start": 15,
+          "username": "LoneStar3939"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089466197796704398",
+    "in_reply_to_user_id": "2010357366466990080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089462452631351767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennainai666 @LoneStar3939 想你了湖南男孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2089435464239665567",
+        "created_at": "2026-08-17T21:35:36.000Z",
+        "display_text_range": [
+          29,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T22:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089466197796704398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennainai666"
+            },
+            {
+              "end": 28,
+              "id": "1807304008866140160",
+              "start": 15,
+              "username": "LoneStar3939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089466197796704398",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089462452631351767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennainai666 @LoneStar3939 想你了湖南男孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2089435464239665567",
+        "created_at": "2026-08-17T21:20:43.000Z",
+        "display_text_range": [
+          22,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T22:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089462452631351767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            },
+            {
+              "end": 21,
+              "id": "1807304008866140160",
+              "start": 8,
+              "username": "LoneStar3939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089462452631351767",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089435464239665567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 @LoneStar3939 挺好的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089466197796704398",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 369,
+          "like_count": 2264,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 373
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "进群私",
+        "id": "2010357366466990080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089462452631351767",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2088754378874466735",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010357366466990080/1769655313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4950,
+          "following_count": 776,
+          "like_count": 1211,
+          "listed_count": 3,
+          "media_count": 515,
+          "tweet_count": 4064
+        },
+        "url": "",
+        "username": "shennainai666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-30T06:43:55.000Z",
+        "description": "星。治疗中。",
+        "id": "1807304008866140160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089436447279546433",
+        "name": "lllllsss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807304008866140160/1786702562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088309476587909120/cGGFpL7v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "LoneStar3939",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
