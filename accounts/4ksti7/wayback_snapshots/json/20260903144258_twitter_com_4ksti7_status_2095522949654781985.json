@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2095190985022271694",
+    "created_at": "2026-09-03T14:42:58.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T15:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095522949654781985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2050049924008660992",
+          "start": 0,
+          "username": "OD4UFML"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095522949654781985",
+    "in_reply_to_user_id": "2050049924008660992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095522310828839374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OD4UFML 好呀🦑🦑💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2095190985022271694",
+        "created_at": "2026-09-03T14:42:58.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095522949654781985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2050049924008660992",
+              "start": 0,
+              "username": "OD4UFML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095522949654781985",
+        "in_reply_to_user_id": "2050049924008660992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095522310828839374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OD4UFML 好呀🦑🦑💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050049924008660992",
+        "conversation_id": "2095190985022271694",
+        "created_at": "2026-09-03T14:40:26.000Z",
+        "display_text_range": [
+          8,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095522310828839374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095522310828839374",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095190985022271694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 想要什么直接说就行了，看得出来，比如你想要阿普，就说你以前是吃地西泮的。但是半衰期太长了会影响第二天状态，希望可以换成更短效一点的。只是看医生愿不愿意给你开了，其实很多医生愿意开，但他需要一个理由"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095522949654781985",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 390,
+          "like_count": 2791,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T03:09:38.000Z",
+        "description": "大部分时候我就像癌症晚期的病人，疼痛在我的血液里流淌，覆盖了我对世界的大部分感受",
+        "id": "2050049924008660992",
+        "is_identity_verified": false,
+        "location": "4km",
+        "most_recent_tweet_id": "2095522310828839374",
+        "name": "不挽春",
+        "pinned_tweet_id": "2092222723330363545",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050049924008660992/1787634154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094281369467912192/nzxIN7xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 36,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "OD4UFML",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

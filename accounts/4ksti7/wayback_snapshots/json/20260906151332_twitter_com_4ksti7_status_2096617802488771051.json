@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2096581470974607847",
+    "created_at": "2026-09-06T15:13:32.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096617802488771051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1710149314864168960",
+          "start": 0,
+          "username": "Zzz_c202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096617802488771051",
+    "in_reply_to_user_id": "1710149314864168960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096600929248391240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzz_c202 谢谢你！🦑🦑🦑🦑💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2096581470974607847",
+        "created_at": "2026-09-06T15:13:32.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096617802488771051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1710149314864168960",
+              "start": 0,
+              "username": "Zzz_c202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096617802488771051",
+        "in_reply_to_user_id": "1710149314864168960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096600929248391240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzz_c202 谢谢你！🦑🦑🦑🦑💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710149314864168960",
+        "conversation_id": "2096581470974607847",
+        "created_at": "2026-09-06T14:06:29.000Z",
+        "display_text_range": [
+          8,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096600929248391240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096600929248391240",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096581470974607847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 哇啊啊沒有跳通知 抱歉沒有回fo到\n499fo先祝500fo快樂！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096617802488771051",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 398,
+          "like_count": 2822,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-06T04:25:54.000Z",
+        "description": "07｜重鬱 雙相 ADHD OCD｜OD｜無門檻｜同類互fo\n📍座標台灣",
+        "id": "1710149314864168960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096615719668691302",
+        "name": "Zzz",
+        "pinned_tweet_id": "2096253780992119134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1710149314864168960/1788618668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096243474635149313/8CIPRhNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 328,
+          "like_count": 10271,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "Zzz_c202",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2096144824370106506",
+    "created_at": "2026-09-06T05:19:35.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T06:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096468332316946909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1777636769187676160",
+          "start": 0,
+          "username": "Tisav5000sd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096468332316946909",
+    "in_reply_to_user_id": "1777636769187676160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096144824370106506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tisav5000sd 轰爆大鱿鱼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4200,
+        "height": 1280,
+        "media_key": "13_2096144804325556224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096144804325556224/img/hNxe1s9y6MSMgtvF.jpg",
+        "public_metrics": {
+          "view_count": 110
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096144804325556224/vid/avc1/320x568/W2D13fi08Mc2kADx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096144804325556224/vid/avc1/480x852/2ntw2ZNkVMmm4a7p.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096144804325556224/vid/avc1/720x1280/ZLJD7YPQ5KdvyVr1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096144804325556224/pl/nKswp-riUJy09gsl.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2096144824370106506",
+        "created_at": "2026-09-06T05:19:35.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096468332316946909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777636769187676160",
+              "start": 0,
+              "username": "Tisav5000sd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096468332316946909",
+        "in_reply_to_user_id": "1777636769187676160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096144824370106506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tisav5000sd 轰爆大鱿鱼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096144804325556224"
+          ]
+        },
+        "author_id": "1777636769187676160",
+        "conversation_id": "2096144824370106506",
+        "created_at": "2026-09-05T07:54:05.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096144824370106506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNRt898XOK",
+              "end": 35,
+              "expanded_url": "https://x.com/Tisav5000sd/status/2096144824370106506/video/1",
+              "media_key": "13_2096144804325556224",
+              "start": 12,
+              "url": "https://t.co/jNRt898XOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096144824370106506",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096144804325556224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 379,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夹板坏了我只能当爆炸头 https://t.co/jNRt898XOK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096468332316946909",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 391,
+          "like_count": 2802,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-09T09:57:00.000Z",
+        "description": "啦啦啦外星人啊 快来把我们掳走吧",
+        "id": "1777636769187676160",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2096385950343635339",
+        "name": "TisaV 8964",
+        "pinned_tweet_id": "2093238512388907404",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1777636769187676160/1777708558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920384370797363200/qjap6c_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 172,
+          "like_count": 733,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "Tisav5000sd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

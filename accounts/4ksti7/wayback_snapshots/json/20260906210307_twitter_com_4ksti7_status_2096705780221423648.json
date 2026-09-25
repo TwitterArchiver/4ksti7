@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2096618295122337880",
+    "created_at": "2026-09-06T21:03:07.000Z",
+    "display_text_range": [
+      9,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T22:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096705780221423648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1580633518471671808",
+          "start": 0,
+          "username": "kujoli1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096705780221423648",
+    "in_reply_to_user_id": "1580633518471671808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096620810966622517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujoli1 我又不当兵…真的气死我了早知道办免训了…染发好贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2096618295122337880",
+        "created_at": "2026-09-06T21:03:07.000Z",
+        "display_text_range": [
+          9,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T22:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096705780221423648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1580633518471671808",
+              "start": 0,
+              "username": "kujoli1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096705780221423648",
+        "in_reply_to_user_id": "1580633518471671808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096620810966622517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujoli1 我又不当兵…真的气死我了早知道办免训了…染发好贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580633518471671808",
+        "conversation_id": "2096618295122337880",
+        "created_at": "2026-09-06T15:25:29.000Z",
+        "display_text_range": [
+          8,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096620810966622517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096620810966622517",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096618295122337880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 越烂的学校管得越多，当个领导都给他们牛逼坏了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096705780221423648",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 399,
+          "like_count": 2828,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 509
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-13T18:56:24.000Z",
+        "description": "興味ないね",
+        "id": "1580633518471671808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096620810966622517",
+        "name": "海腹川贝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580633518471671808/1740913257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741680261895684096/JM6zaJyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 59,
+          "like_count": 12394,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "kujoli1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

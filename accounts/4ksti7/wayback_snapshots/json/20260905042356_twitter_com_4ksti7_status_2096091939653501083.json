@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096091898574495744",
+        "3_2096091898524102656",
+        "3_2096091898519928832"
+      ]
+    },
+    "author_id": "2075312744417632256",
+    "conversation_id": "2096091939653501083",
+    "created_at": "2026-09-05T04:23:56.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T05:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096091939653501083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FD6NZhb5Pn",
+          "end": 37,
+          "expanded_url": "https://x.com/4ksti7/status/2096091939653501083/photo/1",
+          "media_key": "3_2096091898574495744",
+          "start": 14,
+          "url": "https://t.co/FD6NZhb5Pn"
+        },
+        {
+          "display_url": "pic.x.com/FD6NZhb5Pn",
+          "end": 37,
+          "expanded_url": "https://x.com/4ksti7/status/2096091939653501083/photo/1",
+          "media_key": "3_2096091898524102656",
+          "start": 14,
+          "url": "https://t.co/FD6NZhb5Pn"
+        },
+        {
+          "display_url": "pic.x.com/FD6NZhb5Pn",
+          "end": 37,
+          "expanded_url": "https://x.com/4ksti7/status/2096091939653501083/photo/1",
+          "media_key": "3_2096091898519928832",
+          "start": 14,
+          "url": "https://t.co/FD6NZhb5Pn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096091939653501083",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096091898574495744"
+      },
+      {
+        "media_key": "3_2096091898524102656"
+      },
+      {
+        "media_key": "3_2096091898519928832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大学好恐怖。我讨厌群居生活 https://t.co/FD6NZhb5Pn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 995,
+        "media_key": "3_2096091898574495744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbQeecbYAAN_bY.jpg",
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2096091898524102656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbQeeQacAAgiVf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1021,
+        "media_key": "3_2096091898519928832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbQeePawAAIA4d.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096091898574495744",
+            "3_2096091898524102656",
+            "3_2096091898519928832"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2096091939653501083",
+        "created_at": "2026-09-05T04:23:56.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096091939653501083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FD6NZhb5Pn",
+              "end": 37,
+              "expanded_url": "https://x.com/4ksti7/status/2096091939653501083/photo/1",
+              "media_key": "3_2096091898574495744",
+              "start": 14,
+              "url": "https://t.co/FD6NZhb5Pn"
+            },
+            {
+              "display_url": "pic.x.com/FD6NZhb5Pn",
+              "end": 37,
+              "expanded_url": "https://x.com/4ksti7/status/2096091939653501083/photo/1",
+              "media_key": "3_2096091898524102656",
+              "start": 14,
+              "url": "https://t.co/FD6NZhb5Pn"
+            },
+            {
+              "display_url": "pic.x.com/FD6NZhb5Pn",
+              "end": 37,
+              "expanded_url": "https://x.com/4ksti7/status/2096091939653501083/photo/1",
+              "media_key": "3_2096091898519928832",
+              "start": 14,
+              "url": "https://t.co/FD6NZhb5Pn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096091939653501083",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096091898574495744"
+          },
+          {
+            "media_key": "3_2096091898524102656"
+          },
+          {
+            "media_key": "3_2096091898519928832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大学好恐怖。我讨厌群居生活 https://t.co/FD6NZhb5Pn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096091939653501083",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 390,
+          "like_count": 2809,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 491
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

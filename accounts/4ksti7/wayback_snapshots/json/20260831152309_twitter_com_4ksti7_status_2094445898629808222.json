@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094445877155000320"
+      ]
+    },
+    "author_id": "2075312744417632256",
+    "conversation_id": "2094445898629808222",
+    "created_at": "2026-08-31T15:23:09.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T16:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094445898629808222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OgaO9c7Fku",
+          "end": 32,
+          "expanded_url": "https://x.com/4ksti7/status/2094445898629808222/photo/1",
+          "media_key": "3_2094445877155000320",
+          "start": 9,
+          "url": "https://t.co/OgaO9c7Fku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094445898629808222",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094445877155000320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "遇到簪子了好开心 https://t.co/OgaO9c7Fku"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094445877155000320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRD3ba0a8AANDal.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094445877155000320"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2094445898629808222",
+        "created_at": "2026-08-31T15:23:09.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094445898629808222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OgaO9c7Fku",
+              "end": 32,
+              "expanded_url": "https://x.com/4ksti7/status/2094445898629808222/photo/1",
+              "media_key": "3_2094445877155000320",
+              "start": 9,
+              "url": "https://t.co/OgaO9c7Fku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094445898629808222",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094445877155000320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遇到簪子了好开心 https://t.co/OgaO9c7Fku"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094445898629808222",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 383,
+          "like_count": 2652,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 462
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

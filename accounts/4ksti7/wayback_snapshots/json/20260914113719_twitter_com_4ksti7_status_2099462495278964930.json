@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2099032058433831071",
+    "created_at": "2026-09-14T11:37:19.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T12:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099462495278964930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1807304008866140160",
+          "start": 0,
+          "username": "LoneStar3939"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099462495278964930",
+    "in_reply_to_user_id": "1807304008866140160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099411504420516156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoneStar3939 快来泉州摸咪咪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2099032058433831071",
+        "created_at": "2026-09-14T11:37:19.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099462495278964930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1807304008866140160",
+              "start": 0,
+              "username": "LoneStar3939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099462495278964930",
+        "in_reply_to_user_id": "1807304008866140160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099411504420516156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoneStar3939 快来泉州摸咪咪。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807304008866140160",
+        "conversation_id": "2099032058433831071",
+        "created_at": "2026-09-14T08:14:42.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T09:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099411504420516156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099411504420516156",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099032058433831071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 小咪咪。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099462495278964930",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 409,
+          "like_count": 2902,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-30T06:43:55.000Z",
+        "description": "星。治疗中。",
+        "id": "1807304008866140160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099411836982432252",
+        "name": "lllllsss",
+        "pinned_tweet_id": "2089122780956827992",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807304008866140160/1786702562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088309476587909120/cGGFpL7v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 6,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "LoneStar3939",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

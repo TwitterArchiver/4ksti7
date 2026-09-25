@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2101115388633489713",
+    "created_at": "2026-09-19T11:43:50.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T12:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101276072730087680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1425226011117973506",
+          "start": 0,
+          "username": "sama48325261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101276072730087680",
+    "in_reply_to_user_id": "1425226011117973506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101143990733308173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sama48325261 我们管的很严会收手机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2101115388633489713",
+        "created_at": "2026-09-19T11:43:50.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101276072730087680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1425226011117973506",
+              "start": 0,
+              "username": "sama48325261"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101276072730087680",
+        "in_reply_to_user_id": "1425226011117973506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101143990733308173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama48325261 我们管的很严会收手机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425226011117973506",
+        "conversation_id": "2101115388633489713",
+        "created_at": "2026-09-19T02:58:59.000Z",
+        "display_text_range": [
+          8,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T03:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101143990733308173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101143990733308173",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101115388633489713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 但是你大学能上课手机耍起，哪怕是现在你也可能在上课的时候看看推特"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo\n我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101276072730087680",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 409,
+          "like_count": 2922,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 546
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-10T22:42:26.000Z",
+        "description": "芜湖～",
+        "id": "1425226011117973506",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2101260314809700536",
+        "name": "花道领域大神",
+        "pinned_tweet_id": "2100905124000612588",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1425226011117973506/1789729744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100931203595751424/5TzyAfCd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 56,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 991
+        },
+        "url": "",
+        "username": "sama48325261",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
