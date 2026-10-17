@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106965610232197120",
+        "3_2106965610286723073",
+        "3_2106965610244853760",
+        "3_2106965610227957760"
+      ]
+    },
+    "author_id": "2075312744417632256",
+    "conversation_id": "2106965616498467056",
+    "created_at": "2026-10-05T04:32:03.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T05:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106965616498467056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/145SdgH5yj",
+          "end": 39,
+          "expanded_url": "https://x.com/4ksti7/status/2106965616498467056/photo/1",
+          "media_key": "3_2106965610232197120",
+          "start": 16,
+          "url": "https://t.co/145SdgH5yj"
+        },
+        {
+          "display_url": "pic.x.com/145SdgH5yj",
+          "end": 39,
+          "expanded_url": "https://x.com/4ksti7/status/2106965616498467056/photo/1",
+          "media_key": "3_2106965610286723073",
+          "start": 16,
+          "url": "https://t.co/145SdgH5yj"
+        },
+        {
+          "display_url": "pic.x.com/145SdgH5yj",
+          "end": 39,
+          "expanded_url": "https://x.com/4ksti7/status/2106965616498467056/photo/1",
+          "media_key": "3_2106965610244853760",
+          "start": 16,
+          "url": "https://t.co/145SdgH5yj"
+        },
+        {
+          "display_url": "pic.x.com/145SdgH5yj",
+          "end": 39,
+          "expanded_url": "https://x.com/4ksti7/status/2106965616498467056/photo/1",
+          "media_key": "3_2106965610227957760",
+          "start": 16,
+          "url": "https://t.co/145SdgH5yj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106965616498467056",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106965610232197120"
+      },
+      {
+        "media_key": "3_2106965610286723073"
+      },
+      {
+        "media_key": "3_2106965610244853760"
+      },
+      {
+        "media_key": "3_2106965610227957760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "水監獄\n\n（全为特效化妆假血） https://t.co/145SdgH5yj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106965610232197120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT1yDy_asAAuoN-.jpg",
+        "width": 946
+      },
+      {
+        "height": 339,
+        "media_key": "3_2106965610286723073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT1yDzMasAEK5D0.jpg",
+        "width": 452
+      },
+      {
+        "height": 452,
+        "media_key": "3_2106965610244853760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT1yDzCb0AA2gnw.jpg",
+        "width": 339
+      },
+      {
+        "height": 87,
+        "media_key": "3_2106965610227957760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT1yDy-aAAAGNDd.jpg",
+        "width": 96
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106965610232197120",
+            "3_2106965610286723073",
+            "3_2106965610244853760",
+            "3_2106965610227957760"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2106965616498467056",
+        "created_at": "2026-10-05T04:32:03.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106965616498467056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/145SdgH5yj",
+              "end": 39,
+              "expanded_url": "https://x.com/4ksti7/status/2106965616498467056/photo/1",
+              "media_key": "3_2106965610232197120",
+              "start": 16,
+              "url": "https://t.co/145SdgH5yj"
+            },
+            {
+              "display_url": "pic.x.com/145SdgH5yj",
+              "end": 39,
+              "expanded_url": "https://x.com/4ksti7/status/2106965616498467056/photo/1",
+              "media_key": "3_2106965610286723073",
+              "start": 16,
+              "url": "https://t.co/145SdgH5yj"
+            },
+            {
+              "display_url": "pic.x.com/145SdgH5yj",
+              "end": 39,
+              "expanded_url": "https://x.com/4ksti7/status/2106965616498467056/photo/1",
+              "media_key": "3_2106965610244853760",
+              "start": 16,
+              "url": "https://t.co/145SdgH5yj"
+            },
+            {
+              "display_url": "pic.x.com/145SdgH5yj",
+              "end": 39,
+              "expanded_url": "https://x.com/4ksti7/status/2106965616498467056/photo/1",
+              "media_key": "3_2106965610227957760",
+              "start": 16,
+              "url": "https://t.co/145SdgH5yj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106965616498467056",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106965610232197120"
+          },
+          {
+            "media_key": "3_2106965610286723073"
+          },
+          {
+            "media_key": "3_2106965610244853760"
+          },
+          {
+            "media_key": "3_2106965610227957760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水監獄\n\n（全为特效化妆假血） https://t.co/145SdgH5yj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "",
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106965616498467056",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 425,
+          "like_count": 3012,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 578
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

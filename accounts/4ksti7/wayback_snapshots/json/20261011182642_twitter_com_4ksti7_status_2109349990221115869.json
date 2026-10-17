@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075312744417632256",
+    "conversation_id": "2108776024788099551",
+    "created_at": "2026-10-11T18:26:42.000Z",
+    "display_text_range": [
+      10,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T19:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109349990221115869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2084896347480829952",
+          "start": 0,
+          "username": "sey90880"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109349990221115869",
+    "in_reply_to_user_id": "2084896347480829952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108776024788099551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sey90880 24年50t下去直接给我干断片了，在厕所o晕醒来发现自己在床上。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2108776024788099551",
+        "created_at": "2026-10-11T18:26:42.000Z",
+        "display_text_range": [
+          10,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T19:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109349990221115869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2084896347480829952",
+              "start": 0,
+              "username": "sey90880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109349990221115869",
+        "in_reply_to_user_id": "2084896347480829952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108776024788099551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sey90880 24年50t下去直接给我干断片了，在厕所o晕醒来发现自己在床上。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084896347480829952",
+        "conversation_id": "2108776024788099551",
+        "created_at": "2026-10-10T04:25:58.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T05:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108776024788099551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108776024788099551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4577,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下你吃了50t右美沙芬，然后你血清素中毒进icu了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "我是一凡",
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "location": "初中",
+        "most_recent_tweet_id": "2109349990221115869",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108436339100356608/Tg9b_RFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 449,
+          "like_count": 3115,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T06:57:22.000Z",
+        "description": "前世@26suversider\n专注我的ky生活\n我不作了msk别封了\n🚪38TvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "26suversider"
+              }
+            ]
+          }
+        },
+        "id": "2084896347480829952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109329735972958504",
+        "name": "孙笑川籍吧3.0",
+        "pinned_tweet_id": "2106030816140636468",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084896347480829952/1786681390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088119075470004225/nTWlYfi2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 70,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "sey90880",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

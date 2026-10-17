@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2108108960595349504"
+      ]
+    },
+    "author_id": "2075312744417632256",
+    "conversation_id": "2108109088890691826",
+    "created_at": "2026-10-08T08:15:48.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T09:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108109088890691826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DhnKnUUDgv",
+          "end": 97,
+          "expanded_url": "https://x.com/4ksti7/status/2108109088890691826/video/1",
+          "media_key": "13_2108108960595349504",
+          "start": 74,
+          "url": "https://t.co/DhnKnUUDgv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108109088890691826",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2108108960595349504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的很喜欢静香，听到她的声音很安心，就像我第一次听到爱是唯一一样，我能一整天一整周的都在听一个歌，我需要安心的感觉，我又讨厌自己挺久了会腻的感觉 https://t.co/DhnKnUUDgv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14300,
+        "height": 720,
+        "media_key": "13_2108108960595349504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108108960595349504/img/1z0UapYp_kZSiusp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108108960595349504/vid/avc1/360x270/g3dbGMS4Hf_9SXq_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108108960595349504/vid/avc1/480x360/8RFkcSH33A6hhbAk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108108960595349504/vid/avc1/960x720/4NHccWpHkd8TwO4_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2108108960595349504/pl/qseNqkKcNDsETxWz.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2108108960595349504"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2108109088890691826",
+        "created_at": "2026-10-08T08:15:48.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T09:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108109088890691826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhnKnUUDgv",
+              "end": 97,
+              "expanded_url": "https://x.com/4ksti7/status/2108109088890691826/video/1",
+              "media_key": "13_2108108960595349504",
+              "start": 74,
+              "url": "https://t.co/DhnKnUUDgv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108109088890691826",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2108108960595349504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很喜欢静香，听到她的声音很安心，就像我第一次听到爱是唯一一样，我能一整天一整周的都在听一个歌，我需要安心的感觉，我又讨厌自己挺久了会腻的感觉 https://t.co/DhnKnUUDgv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "",
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108109088890691826",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 430,
+          "like_count": 3030,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 578
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
